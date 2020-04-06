@@ -51,4 +51,5 @@ body
 #img{
     display: block;
     margin: auto;
+    border: 1px;
 }
